@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiamanteLetra-Academia-do-Programador", "Diamantes-Academia-do-Programador\DiamanteLetra-Academia-do-Programador.csproj", "{CEFCC8B3-61E7-4EA0-8E08-D844A9303ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFCC8B3-61E7-4EA0-8E08-D844A9303ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFCC8B3-61E7-4EA0-8E08-D844A9303ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFCC8B3-61E7-4EA0-8E08-D844A9303ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFCC8B3-61E7-4EA0-8E08-D844A9303ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF098408-1B4E-4CF1-B00C-2BB773D08AE5}
+	EndGlobalSection
+EndGlobal
